@@ -1,6 +1,11 @@
-# Internet_usage_analysis
+# Internet usage analysis
 
 ## Question: How has internet usage evolved over time across different countries?
+
+
+![DALL·E 2023-03-03 12 17 24 -  3d render, internet usage connection accross the globe, digital art](https://user-images.githubusercontent.com/120349975/222622779-98627d3e-07b1-4627-8b25-58f9e03449ec.png)
+
+
 
 The aim of this project is to analyze and visualize the evolution of internet usage across different countries over time using data from [Our World in Data](https://ourworldindata.org/internet). 
 The dataset includes information on the percentage of individuals using the internet, number of internet users, and population for various countries from 1990 to 2020.
