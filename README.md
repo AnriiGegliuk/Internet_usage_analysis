@@ -5,7 +5,7 @@
 The aim of this project is to analyze and visualize the evolution of internet usage across different countries over time using data from [Our World in Data](https://ourworldindata.org/internet). 
 The dataset includes information on the percentage of individuals using the internet, number of internet users, and population for various countries from 1990 to 2020.
 
-Key concepts:
+#### Key concepts:
 
 Data cleaning and preparation: The dataset may contain missing values, outliers, and inconsistencies that need to be addressed before analysis. 
 The data should be checked for completeness, accuracy, and consistency.
