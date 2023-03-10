@@ -3,7 +3,7 @@
 ## Question: How has internet usage evolved over time across different countries?
 
 <p align="center">
-  <img width="480" height="320" src="computer-communities.png">
+  <img width="480" height="320" src="[computer-communities.png](https://iristech.co/wp-content/uploads/2020/01/computer-communities.png)">
 </p>
 
 The aim of this project is to analyze and visualize the evolution of internet usage across different countries over time using data from [Our World in Data](https://ourworldindata.org/internet). 
