@@ -2,8 +2,9 @@
 
 ## Question: How has internet usage evolved over time across different countries?
 
-![computer-communities](https://user-images.githubusercontent.com/120349975/224242714-62a41928-4698-4a2f-b4a4-1b8d8cfbc185.png)
-
+<p align="center">
+    <img width="200" src="[http://material-bread.org/logo-shadow.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Firistech.co%2Finternet-usage-statistics%2F&psig=AOvVaw2ViFVBN1xF9GNd7Oj_Lm82&ust=1678516898251000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOiO_evg0P0CFQAAAAAdAAAAABAE)" alt="Material Bread logo">
+</p>
 
 The aim of this project is to analyze and visualize the evolution of internet usage across different countries over time using data from [Our World in Data](https://ourworldindata.org/internet). 
 The dataset includes information on the percentage of individuals using the internet, number of internet users, and population for various countries from 1990 to 2020.
