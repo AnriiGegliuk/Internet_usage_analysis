@@ -3,7 +3,7 @@
 ## Question: How has internet usage evolved over time across different countries?
 
 <p align="center">
-   ![computer-communities](https://user-images.githubusercontent.com/120349975/224243199-b0138580-8859-4e80-86d4-1f46183cf433.png)
+  <img width="480" height="200" src=""C:\Users\andri\OneDrive\Рабочий стол\computer-communities.png"">
 </p>
 
 The aim of this project is to analyze and visualize the evolution of internet usage across different countries over time using data from [Our World in Data](https://ourworldindata.org/internet). 
