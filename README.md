@@ -1,5 +1,13 @@
 # Internet usage analysis
 
+The internet has become an integral part of modern society, connecting people and facilitating communication, commerce, and entertainment. Its origins can be traced back to the 1960s, when J.C.R. Licklider of MIT proposed the concept of a global network of computers. The first successful message transmission between two computers took place in 1969, which led to the establishment of the ARPANET by the US Department of Defense. This network facilitated communication between researchers and was a precursor to the internet.
+
+In the following decades, the internet evolved rapidly. Email became one of the first widely-used internet applications in the 1970s, and the domain name system (DNS) was developed in the 1980s to provide easier navigation and identification of websites. The World Wide Web, created in 1989 by Tim Berners-Lee at CERN, was a breakthrough in information sharing among scientists. The first graphical web browser, Mosaic, was developed in 1993 and popularized the World Wide Web.
+
+The late 1990s saw the rise of many internet-based companies and the proliferation of online shopping during the dot-com boom. The emergence of social media platforms such as Facebook and Twitter in the 2000s greatly expanded the way people interacted online. Today, the internet is a ubiquitous presence in daily life, enabling people across the globe to connect with each other and access vast amounts of information.
+
+In conclusion, the history of the internet spans several decades of technological advancements and innovations. From its origins as a network connecting researchers to the ubiquitous presence it has become in modern life, the internet has had a profound impact on society and shows no signs of slowing down.
+
 ## Question: How has internet usage evolved over time across different countries?
 
 1. What are the top 5 countries with the highest internet use (by population share)?
