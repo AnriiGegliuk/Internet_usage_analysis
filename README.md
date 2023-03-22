@@ -2,6 +2,12 @@
 
 ## Question: How has internet usage evolved over time across different countries?
 
+1.
+2.
+3.
+4.
+5.
+
 <p align="center">
   <img width="480" height="320" src="https://iristech.co/wp-content/uploads/2020/01/computer-communities.png">
 </p>
