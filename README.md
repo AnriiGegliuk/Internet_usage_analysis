@@ -10,7 +10,7 @@ In conclusion, the history of the internet spans several decades of technologica
 
 ## Question: How has internet usage evolved over time across different countries?
 
-1. What are the top 5 countries with the highest internet use (by population share)?
+1. What are the top 10 countries with the highest internet use (by population share)?
 2. How many people had internet access in those countries in 2020?
 3. What are the top 5 countries with the highest internet use for each of the following regions: 'Africa Eastern and Southern', 'Africa Western and Central', 'Latin America & Caribbean', 'East Asia & Pacific', 'South Asia', 'North America', 'European Union'?
 4. What is the correlation between internet usage (population share) and broadband subscriptions for 2020?
